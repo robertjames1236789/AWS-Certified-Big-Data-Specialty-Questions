@@ -22,7 +22,7 @@
 
 <h3><strong>Amazon AWS Certified Big Data - Specialty PDF File</strong></h3>
 
-<p>You start your BDS-C00 exam preparation program by learning. Our Amazon AWS Certified Big Data - Specialty Questions pdf has contained all the topics you need to master on the Amazon Specialty certificate. The [EXAM_CODE exam questions come in PDF format. Thus, you can open Amazon pdf Questions on your device or print them on paper. You can also get questions about other <a href="https://www.study4exam.com/amazon-exams" target="_blank"><strong>Amazon exams</strong></a> from us.</p>
+<p>You start your BDS-C00 exam preparation program by learning. Our Amazon AWS Certified Big Data - Specialty Questions pdf has contained all the topics you need to master on the Amazon Specialty certificate. The BDS-C00 exam questions come in PDF format. Thus, you can open Amazon pdf Questions on your device or print them on paper. You can also get questions about other <a href="https://www.study4exam.com/amazon-exams" target="_blank"><strong>Amazon exams</strong></a> from us.</p>
 
 <h3><strong>Amazon BDS-C00 Practice Test Software</strong></h3>
 
